@@ -1,6 +1,8 @@
 # PCA Agriculture Analysis Library
 
-A lightweight Python library designed to support **Principal Component Analysis (PCA)** for agricultural and food security datasets, based on the *African Agriculture and Food Security Indicators* project.
+**Worked on by INYANGE Larissa**
+
+This project is a lightweight Python library designed to support **Principal Component Analysis (PCA)** for agricultural and food security datasets, based on the *African Agriculture and Food Security Indicators* project.
 
 This library simplifies data loading, standardization, PCA computation, and visualization for students and researchers working with real-world agricultural data.
 
@@ -77,4 +79,5 @@ Required packages include:
 * `seaborn`
 
 ---
+
 
